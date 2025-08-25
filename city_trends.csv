@@ -1,0 +1,193 @@
+city,YEAR,heatwave_days,extreme_rain_days
+Abuja,2000,110,3
+Abuja,2001,25,0
+Abuja,2002,62,0
+Abuja,2003,62,0
+Abuja,2004,124,0
+Abuja,2005,118,0
+Abuja,2006,89,1
+Abuja,2007,69,1
+Abuja,2008,17,0
+Abuja,2009,36,0
+Abuja,2010,50,0
+Abuja,2011,29,0
+Abuja,2012,61,0
+Abuja,2013,31,0
+Abuja,2014,80,0
+Abuja,2015,108,0
+Abuja,2016,92,2
+Abuja,2017,57,0
+Abuja,2018,65,2
+Abuja,2019,96,2
+Abuja,2020,45,0
+Abuja,2021,72,0
+Abuja,2022,38,5
+Abuja,2023,56,0
+Enugu,2000,2,4
+Enugu,2001,0,0
+Enugu,2002,0,0
+Enugu,2003,0,1
+Enugu,2004,0,0
+Enugu,2005,0,0
+Enugu,2006,0,1
+Enugu,2007,0,1
+Enugu,2008,0,0
+Enugu,2009,0,0
+Enugu,2010,0,0
+Enugu,2011,0,0
+Enugu,2012,0,0
+Enugu,2013,0,0
+Enugu,2014,0,0
+Enugu,2015,0,0
+Enugu,2016,4,0
+Enugu,2017,0,2
+Enugu,2018,0,4
+Enugu,2019,0,3
+Enugu,2020,0,4
+Enugu,2021,0,0
+Enugu,2022,6,0
+Enugu,2023,10,0
+Ibadan,2000,0,0
+Ibadan,2001,0,0
+Ibadan,2002,3,0
+Ibadan,2003,0,0
+Ibadan,2004,0,0
+Ibadan,2005,0,2
+Ibadan,2006,1,3
+Ibadan,2007,0,0
+Ibadan,2008,0,1
+Ibadan,2009,0,0
+Ibadan,2010,0,1
+Ibadan,2011,0,0
+Ibadan,2012,0,0
+Ibadan,2013,0,0
+Ibadan,2014,0,0
+Ibadan,2015,0,0
+Ibadan,2016,3,0
+Ibadan,2017,0,0
+Ibadan,2018,0,2
+Ibadan,2019,0,4
+Ibadan,2020,0,2
+Ibadan,2021,0,5
+Ibadan,2022,0,3
+Ibadan,2023,0,2
+Kaduna,2000,78,1
+Kaduna,2001,14,0
+Kaduna,2002,30,0
+Kaduna,2003,31,0
+Kaduna,2004,74,0
+Kaduna,2005,101,0
+Kaduna,2006,110,0
+Kaduna,2007,65,0
+Kaduna,2008,59,0
+Kaduna,2009,67,0
+Kaduna,2010,79,0
+Kaduna,2011,69,0
+Kaduna,2012,73,0
+Kaduna,2013,62,0
+Kaduna,2014,69,0
+Kaduna,2015,88,2
+Kaduna,2016,41,1
+Kaduna,2017,53,1
+Kaduna,2018,57,0
+Kaduna,2019,54,2
+Kaduna,2020,20,19
+Kaduna,2021,24,45
+Kaduna,2022,1,24
+Kaduna,2023,10,12
+Kano,2000,148,0
+Kano,2001,135,0
+Kano,2002,183,0
+Kano,2003,185,0
+Kano,2004,228,0
+Kano,2005,239,0
+Kano,2006,234,0
+Kano,2007,138,0
+Kano,2008,131,0
+Kano,2009,208,0
+Kano,2010,153,0
+Kano,2011,196,0
+Kano,2012,114,0
+Kano,2013,232,0
+Kano,2014,198,0
+Kano,2015,207,0
+Kano,2016,207,0
+Kano,2017,185,2
+Kano,2018,218,0
+Kano,2019,198,1
+Kano,2020,118,7
+Kano,2021,113,8
+Kano,2022,103,1
+Kano,2023,245,1
+Lagos,2000,0,0
+Lagos,2001,0,0
+Lagos,2002,0,0
+Lagos,2003,0,1
+Lagos,2004,0,1
+Lagos,2005,0,3
+Lagos,2006,0,0
+Lagos,2007,0,1
+Lagos,2008,0,0
+Lagos,2009,0,1
+Lagos,2010,0,1
+Lagos,2011,0,0
+Lagos,2012,0,0
+Lagos,2013,0,0
+Lagos,2014,0,0
+Lagos,2015,0,0
+Lagos,2016,0,1
+Lagos,2017,0,3
+Lagos,2018,0,0
+Lagos,2019,0,3
+Lagos,2020,0,3
+Lagos,2021,0,2
+Lagos,2022,0,0
+Lagos,2023,0,1
+Maiduguri,2000,223,0
+Maiduguri,2001,217,0
+Maiduguri,2002,234,0
+Maiduguri,2003,251,0
+Maiduguri,2004,269,0
+Maiduguri,2005,261,0
+Maiduguri,2006,264,0
+Maiduguri,2007,236,0
+Maiduguri,2008,164,0
+Maiduguri,2009,232,0
+Maiduguri,2010,183,0
+Maiduguri,2011,214,0
+Maiduguri,2012,169,0
+Maiduguri,2013,223,0
+Maiduguri,2014,212,0
+Maiduguri,2015,243,0
+Maiduguri,2016,218,1
+Maiduguri,2017,232,2
+Maiduguri,2018,209,0
+Maiduguri,2019,195,0
+Maiduguri,2020,175,2
+Maiduguri,2021,228,0
+Maiduguri,2022,192,0
+Maiduguri,2023,271,0
+Port Harcourt,2000,0,9
+Port Harcourt,2001,0,1
+Port Harcourt,2002,0,2
+Port Harcourt,2003,0,2
+Port Harcourt,2004,0,1
+Port Harcourt,2005,0,4
+Port Harcourt,2006,0,7
+Port Harcourt,2007,0,11
+Port Harcourt,2008,0,0
+Port Harcourt,2009,0,2
+Port Harcourt,2010,0,4
+Port Harcourt,2011,0,1
+Port Harcourt,2012,0,0
+Port Harcourt,2013,0,1
+Port Harcourt,2014,0,0
+Port Harcourt,2015,0,2
+Port Harcourt,2016,0,2
+Port Harcourt,2017,0,10
+Port Harcourt,2018,0,10
+Port Harcourt,2019,0,8
+Port Harcourt,2020,0,8
+Port Harcourt,2021,0,9
+Port Harcourt,2022,0,1
+Port Harcourt,2023,0,2
